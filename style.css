@@ -1,0 +1,12 @@
+img {
+  float: right;
+  margin-right: 15%;
+  border-radius: 100%;
+  background-color:chartreuse
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
